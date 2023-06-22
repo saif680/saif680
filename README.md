@@ -16,6 +16,9 @@ Statistical Analysis ,
 Advanced Excel Functions and Formulas ,
 SQL Querying ,
 Power BI Dashboards.
+## Certification
+# SQL (Basic) Certificate -HackerRank https://www.hackerrank.com/certificates/5d93fedac3bb
+# Problem Solving (Basic) Certificate -HackerRank  https://www.hackerrank.com/certificates/22d0b23342c8
 
 ## Contact Me
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at inamdarsaif68@gmail.com. I would be happy to connect with you.
